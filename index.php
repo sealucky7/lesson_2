@@ -7,7 +7,7 @@ $age = 28;
 
 echo 'Меня зовут '.$name.'<br />';
 echo ' Мне' .$age. 'лет'; 
-unset ($name, $age);
+unset ($name, $age); 
 
 ?>
 <p>Задание 2</p>
